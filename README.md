@@ -1,13 +1,32 @@
-<!-- ASCII ART HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=F7A23B&center=true&vCenter=true&width=600&height=70&lines=Krishna+Singh;BSc+Data+Science+%40+BK+Birla+College;Python+%E2%80%A2+ML+%E2%80%A2+AI+%E2%80%A2+Data;Building+real-world+projects" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/krishnasingh13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/_yk.krishna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:itsmekrishna1307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,45:06b6d4,100:22d3ee&height=220&section=header&text=Krishna%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=BSc%20Data%20Science%20%7C%20Python%20%7C%20ML%20%7C%20AI%20%7C%20Data&descAlignY=57&descSize=17&animation=fadeIn)
+
+<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="200" style="border-radius:50%" align="center" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Insights;Building+AI-Powered+Projects;Exploring+Machine+Learning;+%26+Data+Science;Curious+Mind+%26+Constant+Builder)](https://git.io/typing-svg)
+
+<br/>
+
+![B.Sc. Data Science](https://img.shields.io/badge/B.Sc.-Data%20Science-8B5CF6?style=flat-square&logo=databricks&logoColor=white)
+![Student](https://img.shields.io/badge/BK%20Birla%20College-Kalyan-06B6D4?style=flat-square&logo=googlemaps&logoColor=white)
+![Intern](https://img.shields.io/badge/Intern-ShadowFox%20Data%20Science-22D3EE?style=flat-square&logo=openai&logoColor=white)
+![Builder](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Projects-8B5CF6?style=flat-square&logo=code&logoColor=white)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasingh13)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-06B6D4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yk.krishna)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmekrishna1307@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmekrishna13-code)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=itsmekrishna13-code&label=PROFILE%20VIEWS&color=8b5cf6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/itsmekrishna13-code?label=FOLLOWERS&style=flat-square&color=06B6D4)
+![Stars](https://img.shields.io/github/stars/itsmekrishna13-code?affiliations=OWNER&label=TOTAL%20STARS&style=flat-square&color=22D3EE)
+
+</div>
 
 ---
 
@@ -19,80 +38,229 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-> **Who I Am** — A data science student who doesn't wait for assignments to start building. While most students are still figuring out what Python is, I'm already shipping projects on GitHub and hackathons. Pure curiosity and caffeine ☕
+I am a **B.Sc. Data Science student at B.K. Birla College, Kalyan**, focused on building **AI-powered projects and real-world data science applications**. I don't wait for assignments to start building — while others are still figuring out Python, I'm already shipping projects on GitHub and at hackathons.
 
-- 🔭 **Currently working on** — AI-powered projects & expanding my portfolio with real-world data science apps
-- 🌱 **Currently learning** — Machine Learning & Data Science through hands-on projects
-- 👯 **Looking to collaborate on** — ML projects, Hackathons & Data Analysis with real impact
-- 🤝 **Looking for help with** — Advanced Deep Learning & deploying ML models to production
-- 💬 **Ask me about** — Python, Data Science, ML pipelines, EDA, Hackathons... anything Data!
+My work spans the complete data science lifecycle — from **data exploration, cleaning, feature engineering, and EDA** to **machine learning, predictive modeling, and visualization**, all with a product-minded approach.
+
+### Open To
+
+* Machine Learning & Data Science Internships
+* Data Analysis Opportunities
+* Hackathons & Innovation Challenges
+* Open Source Contributions
+* AI & ML Project Collaborations
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,r,c,cpp,java,js&theme=dark" />
+</p>
+
+### AI, Machine Learning & Data Science
+
+<p align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-06B6D4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-22D3EE?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0EA5E9?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-8B5CF6?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-06B6D4?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</p>
+
+### Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite,postgres&theme=dark" />
+</p>
+
+### Software Engineering & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,html,css&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI / ML Expertise
+
+| Area                     | Level        | Details                                                          |
+| :----------------------- | :----------: | :--------------------------------------------------------------- |
+| **Data Science**         | Developing   | EDA, data cleaning, feature engineering, visualization           |
+| **Machine Learning**     | Developing   | Regression, classification, model evaluation, predictive modeling |
+| **Python Programming**   | Proficient   | Libraries like Pandas, NumPy, Matplotlib, Scikit-Learn            |
+| **Data Analysis**        | Proficient   | Structured thinking, insight generation, storytelling with data   |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>Vecna AI — Voice-Powered AI Desktop Assistant</b></summary>
+
+<br/>
+
+A Jarvis-style AI desktop assistant built for the college event TechXpression — combining voice, PC control, web search, and weather.
+
+| Metric       | Details                                              |
+| :----------- | :--------------------------------------------------- |
+| **Stack**    | Python · Voice Processing · Automation               |
+| **Features** | Voice + PC Control + Web Search + Weather            |
+| **Impact**   | Real-world AI product built for a live college event |
+| **Repository** | [View Repository](https://github.com/itsmekrishna13-code/vecna-ai) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>CineScore AI — Movie Rating & Sentiment Analysis</b></summary>
+
+<br/>
+
+EDA and ML analysis on Netflix Movies & TV Shows dataset — understanding ratings and user sentiment with Python.
+
+| Metric       | Details                                            |
+| :----------- | :------------------------------------------------- |
+| **Stack**    | Pandas · NumPy · Matplotlib · Scikit-Learn         |
+| **Focus**    | EDA, data visualization, ML analysis               |
+| **Impact**   | Extracts meaningful insights from entertainment data |
+| **Repository** | [View Repository](https://github.com/itsmekrishna13-code/netflix-rating-analysis) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Churn Predictor — Customer Churn Prediction</b></summary>
+
+<br/>
+
+Customer churn prediction using Random Forest on a Telco dataset — achieving ~80% accuracy with Logistic Regression comparison.
+
+| Metric         | Details                                       |
+| :------------- | :-------------------------------------------- |
+| **Stack**      | Scikit-Learn · Pandas · ML Modeling           |
+| **Performance**| ~80% accuracy (Logistic Regression)           |
+| **Impact**     | Business value via churn prediction           |
+| **Repository** | [View Repository](https://github.com/itsmekrishna13-code/customer-churn-prediction) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>DataForge AI — Coming Soon</b></summary>
+
+<br/>
+
+An upcoming AI-powered data engineering / analysis tool. Stay tuned.
+
+| Metric       | Details                                           |
+| :----------- | :------------------------------------------------ |
+| **Stack**    | Python · AI · Data Processing                     |
+| **Status**   | Coming Soon                                       |
+
+</details>
+
+---
+
+## 🏆 Hackathon & Community Experience
+
+### Developer · Builder
+
+**TechXpression · BK Birla College**
+
+Built and demonstrated the Vecna AI assistant at the college event, showcasing voice + PC control + AI integration to a live audience.
+
+`AI` `Voice Processing` `Python` `Live Demo`
+
+<br/>
+
+### Data Science Intern
+
+**ShadowFox (July 2026)**
+
+Hands-on data science internship building real-world analysis and ML skills.
+
+`Data Science` `Python` `Analysis` `ML`
+
+---
+
+## 📜 Certifications
+
+![ShadowFox](https://img.shields.io/badge/ShadowFox-Data%20Science%20Intern-8B5CF6?style=for-the-badge&logo=code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=itsmekrishna13-code&theme=dark&hide_border=false&count_private=false" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmekrishna13-code&theme=dark&hide_border=false&layout=compact" height="170" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=itsmekrishna13-code&theme=dark&hide_border=false" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsmekrishna13-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&ring_color=22d3ee" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=itsmekrishna13-code&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=22D3EE&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekrishna13-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
+
 </div>
 
 ---
 
-## 💻 Coding Languages
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=r" title="R" />
-  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
-  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmekrishna13-code&bg_color=0d1117&color=8b5cf6&line=06b6d4&point=22d3ee&area=true&hide_border=true)](https://github.com/itsmekrishna13-code)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmekrishna13-code&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+## 🌱 Current Focus
+
+```yaml
+learning:
+  - Machine Learning
+  - Data Science
+  - Python for Data Analysis
+  - AI & Deep Learning concepts
+
+building:
+  - AI-powered projects
+  - Real-world data science applications
+  - Expanding my GitHub portfolio
+
+exploring:
+  - Data Visualization
+  - Predictive Modeling
+  - Open Source
+  - Hackathon projects
+
+open_to:
+  - ML and Data Science Internships
+  - Data Analysis Opportunities
+  - Hackathons and Collaborations
+```
+
+---
+
+<div align="center">
+
+### *Data nerd who ships. Turning curiosity and caffeine into AI projects.* ☕
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,45:06b6d4,100:22d3ee&height=120&section=footer)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) + github-profile-3d-contrib -->
