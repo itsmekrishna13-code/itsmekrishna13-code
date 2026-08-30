@@ -202,23 +202,7 @@ Hands-on data science internship building real-world analysis and ML skills.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsmekrishna13-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&ring_color=22d3ee" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=itsmekrishna13-code&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=22D3EE&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmekrishna13-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=itsmekrishna13-code&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c9d1d9)
+<img src="https://streak-stats.demolab.com?user=itsmekrishna13-code&hide_border=true&background=0D1117&stroke=8B5CF6&ring=06B6D4&fire=22D3EE&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
