@@ -1,24 +1,25 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-birds.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="180" style="border-radius:50%" align="center" />
 
-<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="200" style="border-radius:50%" align="center" />
+<h2 align="center">Hi, I'm <span style="color:#8b5cf6">Krishna Singh</span> 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Insights;Building+AI-Powered+Projects;Exploring+Machine+Learning;+%26+Data+Science;Curious+Mind+%26+Constant+Builder)](https://git.io/typing-svg)
+<p align="center">
+  <b>B.Sc. Data Science</b> @ BK Birla College Kalyan · Data Science Intern @ ShadowFox
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Insights;Building+AI-Powered+Projects;Exploring+Machine+Learning+%26+DS;Curious+Mind+%26+Constant+Builder)](https://git.io/typing-svg)
 
 <br/>
 
-![B.Sc. Data Science](https://img.shields.io/badge/B.Sc.-Data%20Science-8B5CF6?style=flat-square&logo=databricks&logoColor=white)
-![Student](https://img.shields.io/badge/BK%20Birla%20College-Kalyan-06B6D4?style=flat-square&logo=googlemaps&logoColor=white)
-![Intern](https://img.shields.io/badge/Intern-ShadowFox%20Data%20Science-22D3EE?style=flat-square&logo=openai&logoColor=white)
-![Builder](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Projects-8B5CF6?style=flat-square&logo=code&logoColor=white)
+<a href="https://linkedin.com/in/krishnasingh13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/itsmekrishna13-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/_yk.krishna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:itsmekrishna1307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasingh13)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-06B6D4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yk.krishna)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsmekrishna1307@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmekrishna13-code)
+<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-birds.gif" width="100%" height="120" style="object-fit:cover" />
 
 <br/>
 
