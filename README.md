@@ -218,7 +218,7 @@ Hands-on data science internship building real-world analysis and ML skills.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmekrishna13-code&bg_color=0d1117&color=8b5cf6&line=06b6d4&point=22d3ee&area=true&hide_border=true)](https://github.com/itsmekrishna13-code)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=itsmekrishna13-code&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=06b6d4&sideLabels=c9d1d9)
 
 </div>
 
