@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="50%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="wave1g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="wave2g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+    <linearGradient id="wave3g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="320" fill="url(#bg)"/>
+
+  <!-- Wave layer 3 (back, slow) -->
+  <path fill="url(#wave3g)" opacity="0.5">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite" values="
+      M0,220 C150,180 300,260 500,230 C700,200 850,250 1000,210 L1000,320 L0,320 Z;
+      M0,230 C200,200 350,240 500,210 C700,180 900,260 1000,230 L1000,320 L0,320 Z;
+      M0,220 C150,180 300,260 500,230 C700,200 850,250 1000,210 L1000,320 L0,320 Z"/>
+  </path>
+
+  <!-- Wave layer 2 (mid) -->
+  <path fill="url(#wave2g)" opacity="0.7">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0,240 C130,200 280,280 500,250 C720,220 870,270 1000,230 L1000,320 L0,320 Z;
+      M0,250 C160,220 350,250 520,230 C730,200 920,280 1000,250 L1000,320 L0,320 Z;
+      M0,240 C130,200 280,280 500,250 C720,220 870,270 1000,230 L1000,320 L0,320 Z"/>
+  </path>
+
+  <!-- Wave layer 1 (front, fast) -->
+  <path fill="url(#wave1g)" opacity="0.9">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,260 C140,220 300,300 500,270 C720,240 870,290 1000,250 L1000,320 L0,320 Z;
+      M0,270 C180,240 360,280 520,250 C740,220 930,300 1000,270 L1000,320 L0,320 Z;
+      M0,260 C140,220 300,300 500,270 C720,240 870,290 1000,250 L1000,320 L0,320 Z"/>
+  </path>
+
+  <text x="500" y="160" font-family="Arial, sans-serif" font-size="60" font-weight="bold"
+        text-anchor="middle" fill="url(#txt)" stroke="#22d3ee" stroke-width="1">
+    Krishna Singh
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="500" y="205" font-family="Arial, sans-serif" font-size="20" font-weight="500"
+        text-anchor="middle" fill="#e0f7ff">
+    BSc Data Science | Python | ML | AI | Data
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
