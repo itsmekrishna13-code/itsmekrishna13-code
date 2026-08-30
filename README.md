@@ -16,6 +16,7 @@
 <a href="https://github.com/itsmekrishna13-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://instagram.com/_yk.krishna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:itsmekrishna1307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://itsmekrishna13-code.github.io/krishna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 
 <br/>
 
