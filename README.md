@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-fog.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:8b5cf6,100:22d3ee&height=200&section=header&text=Krishna%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=BSc%20Data%20Science%20%7C%20Python%20%7C%20ML%20%7C%20AI%20%7C%20Data&descAlignY=57&descSize=16&animation=twinkling&stroke=06b6d4&strokeWidth=1" width="100%" height="220" />
 
 <img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="200" style="border-radius:50%" align="center" />
 
