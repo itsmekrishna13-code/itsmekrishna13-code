@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-waves.svg)
+![Header](https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-fog.svg)
 
 <img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="200" style="border-radius:50%" align="center" />
 
