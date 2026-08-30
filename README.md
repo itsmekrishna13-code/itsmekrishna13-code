@@ -1,12 +1,12 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-birds.gif" width="100%" height="160" style="object-fit:cover" />
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="180" style="border-radius:50%" align="center" />
 
 <h2 align="center">Hi, I'm <span style="color:#8b5cf6">Krishna Singh</span> 👋</h2>
-
-<p align="center">
-  <b>B.Sc. Data Science</b> @ BK Birla College Kalyan · Data Science Intern @ ShadowFox
-</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+into+Insights;Building+AI-Powered+Projects;Exploring+Machine+Learning+%26+DS;Curious+Mind+%26+Constant+Builder)](https://git.io/typing-svg)
 
@@ -16,10 +16,6 @@
 <a href="https://github.com/itsmekrishna13-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://instagram.com/_yk.krishna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:itsmekrishna1307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/header-birds.gif" width="100%" height="120" style="object-fit:cover" />
 
 <br/>
 
