@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,45:06b6d4,100:22d3ee&height=220&section=header&text=Krishna%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=BSc%20Data%20Science%20%7C%20Python%20%7C%20ML%20%7C%20AI%20%7C%20Data&descAlignY=57&descSize=17&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:8b5cf6,100:22d3ee&height=220&section=header&text=Krishna%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=BSc%20Data%20Science%20%7C%20Python%20%7C%20ML%20%7C%20AI%20%7C%20Data&descAlignY=57&descSize=17&animation=twinkling&stroke=06b6d4&strokeWidth=1)
 
 <img src="https://raw.githubusercontent.com/itsmekrishna13-code/itsmekrishna13-code/main/assets/photo.jpg" width="200" style="border-radius:50%" align="center" />
 
@@ -259,7 +259,7 @@ open_to:
 
 ### *Data nerd who ships. Turning curiosity and caffeine into AI projects.* ☕
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,45:06b6d4,100:22d3ee&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:8b5cf6,100:22d3ee&height=120&section=footer&stroke=06b6d4)
 
 </div>
 
