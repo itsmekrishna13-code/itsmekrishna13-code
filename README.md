@@ -64,18 +64,60 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=r" title="R" />
+  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=r" title="R" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=csharp" title="C#" />
+  <img src="https://skillicons.dev/icons?i=go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=rust" title="Rust" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
+  <img src="https://skillicons.dev/icons?i=swift" title="Swift" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+  <img src="https://skillicons.dev/icons?i=scala" title="Scala" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />
   <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=android" title="Android" />
+  <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
   <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
   <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=scikit" title="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=npm" title="npm" />
+  <img src="https://skillicons.dev/icons?i=yarn" title="Yarn" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
 </p>
 
 ---
