@@ -60,21 +60,21 @@
 
 ---
 
-## 💻 Data Science Stack
+## 💻 Coding Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=r" title="R" />
   <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB" />
-  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=scikit" title="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" title="Anaconda" />
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />
   <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" />
   <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" />
-  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" />
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQL" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
