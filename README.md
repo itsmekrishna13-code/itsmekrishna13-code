@@ -60,10 +60,22 @@
 
 ---
 
-## 🏆 Trophies
+## 💻 Coding Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmekrishna13-code&theme=radical&no-frame=false&margin-w=4" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=r" title="R" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL / MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" />
 </p>
 
 ---
