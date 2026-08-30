@@ -1,39 +1,75 @@
-# 💫 About Me:
-Krishna — The Builder 🔥<br>BSc Data Science student, 2nd year @ BK Birla College, Kalyan/Pune<br><br>Who I Am<br>A data science student who doesn't wait for assignments to start building. While most students are still figuring out what Python is, I'm already shipping projects on GitHub and hackathons<br><br>---<br><br>🔭 I'm currently working on<br>Building AI-powered projects & expanding my GitHub portfolio with real-world data science applications<br><br>---<br><br>👯 I'm looking to collaborate on<br>Machine Learning projects, Hackathons, and Data Analysis projects with real impact<br><br>---<br><br>🤝 I'm looking for help with<br>Advanced Deep Learning concepts and deploying ML models to production<br><br>---<br><br>🌱 I'm currently learning<br>Machine Learning, Data Science, and sharpening my Python skills through hands-on projects<br><br>---<br><br>💬 Ask me about<br>Python, Data Science, ML pipelines, EDA, Hackathon experiences, or anything Data!<br><br>---<br><br>⚡ Fun fact<br>I build fully functional AI projects as a college student — no job, no internship, just pure curiosity and caffeine ☕<br><br>
+<!-- ASCII ART HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=F7A23B&center=true&vCenter=true&width=600&height=70&lines=Krishna+Singh;BSc+Data+Science+%40+BK+Birla+College;Python+%E2%80%A2+ML+%E2%80%A2+AI+%E2%80%A2+Data;Building+real-world+projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/krishnasingh13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_yk.krishna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:itsmekrishna1307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 ## 🧊 3D Contribution Graph
+
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="800" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="900" />
 </div>
 
 ---
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yk.krishna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasingh13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmekrishna1307@gmail.com) 
 
-<!-- Snake Game Repo View -->
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+> **Who I Am** — A data science student who doesn't wait for assignments to start building. While most students are still figuring out what Python is, I'm already shipping projects on GitHub and hackathons. Pure curiosity and caffeine ☕
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itsmekrishna13-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=itsmekrishna13-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsmekrishna13-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsmekrishna13-code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsmekrishna13-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 **Currently working on** — AI-powered projects & expanding my portfolio with real-world data science apps
+- 🌱 **Currently learning** — Machine Learning & Data Science through hands-on projects
+- 👯 **Looking to collaborate on** — ML projects, Hackathons & Data Analysis with real impact
+- 🤝 **Looking for help with** — Advanced Deep Learning & deploying ML models to production
+- 💬 **Ask me about** — Python, Data Science, ML pipelines, EDA, Hackathons... anything Data!
 
 ---
-[![](https://komarev.com/ghpvc/?username=itsmekrishna13-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=itsmekrishna13-code&theme=dark&hide_border=false&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=itsmekrishna13-code&theme=dark&hide_border=false&layout=compact" height="170" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=itsmekrishna13-code&theme=dark&hide_border=false" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmekrishna13-code&theme=radical&no-frame=false&margin-w=4" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmekrishna13-code&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) + github-profile-3d-contrib -->
